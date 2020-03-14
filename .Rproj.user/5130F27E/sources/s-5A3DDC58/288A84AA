@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584159137031.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "288A84AA",
+    "lastKnownWriteTime" : 1584161595,
+    "last_content_update" : 1584161595250,
+    "path" : "~/jaguarIsBeuty/R/jaguar.R",
+    "project_path" : "R/jaguar.R",
+    "properties" : {
+        "cursorPosition" : "3,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
